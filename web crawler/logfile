@@ -1,0 +1,760 @@
+--2013-09-19 20:29:50--  http://www.ccs.neu.edu/
+Resolving www.ccs.neu.edu... 129.10.116.81
+Connecting to www.ccs.neu.edu|129.10.116.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50748 (50K) [text/html]
+Saving to: `www.ccs.neu.edu/index.html'
+
+     0K .......... .......... .......... .......... ......... 100% 19.8M=0.002s
+
+2013-09-19 20:29:50 (19.8 MB/s) - `www.ccs.neu.edu/index.html' saved [50748/50748]
+
+Loading robots.txt; please ignore errors.
+--2013-09-19 20:29:55--  http://www.ccs.neu.edu/robots.txt
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 332 [text/plain]
+Saving to: `www.ccs.neu.edu/robots.txt'
+
+     0K                                                       100% 32.0M=0s
+
+2013-09-19 20:29:55 (32.0 MB/s) - `www.ccs.neu.edu/robots.txt' saved [332/332]
+
+Removing www.ccs.neu.edu/index.html.
+
+--2013-09-19 20:30:00--  http://www.ccs.neu.edu/wp-content/uploads/builder-favicon/4Ooc4s8c.ico
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 894 [image/x-icon]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/builder-favicon/4Ooc4s8c.ico'
+
+     0K                                                       100% 86.8M=0s
+
+2013-09-19 20:30:00 (86.8 MB/s) - `www.ccs.neu.edu/wp-content/uploads/builder-favicon/4Ooc4s8c.ico' saved [894/894]
+
+Removing www.ccs.neu.edu/wp-content/uploads/builder-favicon/4Ooc4s8c.ico.
+
+--2013-09-19 20:30:05--  http://www.ccs.neu.edu/wp-content/themes/Builder/css/reset.css
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 888 [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/Builder/css/reset.css'
+
+     0K                                                       100% 83.7M=0s
+
+2013-09-19 20:30:05 (83.7 MB/s) - `www.ccs.neu.edu/wp-content/themes/Builder/css/reset.css' saved [888/888]
+
+Removing www.ccs.neu.edu/wp-content/themes/Builder/css/reset.css.
+
+--2013-09-19 20:30:10--  http://www.ccs.neu.edu/wp-content/themes/ccis/style.css
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 601 [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/style.css'
+
+     0K                                                       100% 57.9M=0s
+
+2013-09-19 20:30:10 (57.9 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/style.css' saved [601/601]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/style.css.
+
+--2013-09-19 20:30:15--  http://www.ccs.neu.edu/wp-content/uploads/it-file-cache/builder-layouts/5044d5ae678cc.css?version=d1dbe3e07c4936318f66ab8953b28270
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1350 (1.3K) [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/it-file-cache/builder-layouts/5044d5ae678cc.css?version=d1dbe3e07c4936318f66ab8953b28270'
+
+     0K .                                                     100%  118M=0s
+
+2013-09-19 20:30:15 (118 MB/s) - `www.ccs.neu.edu/wp-content/uploads/it-file-cache/builder-layouts/5044d5ae678cc.css?version=d1dbe3e07c4936318f66ab8953b28270' saved [1350/1350]
+
+Removing www.ccs.neu.edu/wp-content/uploads/it-file-cache/builder-layouts/5044d5ae678cc.css?version=d1dbe3e07c4936318f66ab8953b28270.
+
+--2013-09-19 20:30:20--  http://www.ccs.neu.edu/wp-content/themes/Builder/css/structure.css?ver=2
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7175 (7.0K) [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/Builder/css/structure.css?ver=2'
+
+     0K .......                                               100% 42.8M=0s
+
+2013-09-19 20:30:20 (42.8 MB/s) - `www.ccs.neu.edu/wp-content/themes/Builder/css/structure.css?ver=2' saved [7175/7175]
+
+Removing www.ccs.neu.edu/wp-content/themes/Builder/css/structure.css?ver=2.
+
+--2013-09-19 20:30:25--  http://www.ccs.neu.edu/xmlrpc.php
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [text/plain]
+Saving to: `www.ccs.neu.edu/xmlrpc.php'
+
+     0K                                                       100% 4.15M=0s
+
+2013-09-19 20:30:26 (4.15 MB/s) - `www.ccs.neu.edu/xmlrpc.php' saved [42/42]
+
+Removing www.ccs.neu.edu/xmlrpc.php.
+
+--2013-09-19 20:30:31--  http://www.ccs.neu.edu/feed/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62409 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/feed/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 38.9M 0s
+    50K ..........                                            100% 20.2M=0.002s
+
+2013-09-19 20:30:31 (33.3 MB/s) - `www.ccs.neu.edu/feed/index.html' saved [62409/62409]
+
+Removing www.ccs.neu.edu/feed/index.html.
+
+--2013-09-19 20:30:36--  http://www.ccs.neu.edu/comments/feed/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ccs.neu.edu [following]
+--2013-09-19 20:30:41--  http://www.ccs.neu.edu/
+Connecting to www.ccs.neu.edu|129.10.116.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50748 (50K) [text/html]
+Saving to: `www.ccs.neu.edu/comments/feed/index.html'
+
+     0K .......... .......... .......... .......... ......... 100% 18.6M=0.003s
+
+2013-09-19 20:30:41 (18.6 MB/s) - `www.ccs.neu.edu/comments/feed/index.html' saved [50748/50748]
+
+Removing www.ccs.neu.edu/comments/feed/index.html.
+
+--2013-09-19 20:30:47--  http://www.ccs.neu.edu/wp-content/plugins/jquery-colorbox/themes/theme7/colorbox.css?ver=4.6
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4872 (4.8K) [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/plugins/jquery-colorbox/themes/theme7/colorbox.css?ver=4.6'
+
+     0K ....                                                  100%  331M=0s
+
+2013-09-19 20:30:47 (331 MB/s) - `www.ccs.neu.edu/wp-content/plugins/jquery-colorbox/themes/theme7/colorbox.css?ver=4.6' saved [4872/4872]
+
+Removing www.ccs.neu.edu/wp-content/plugins/jquery-colorbox/themes/theme7/colorbox.css?ver=4.6.
+
+--2013-09-19 20:30:52--  http://www.ccs.neu.edu/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.5.2
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 227 [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.5.2'
+
+     0K                                                       100% 21.0M=0s
+
+2013-09-19 20:30:52 (21.0 MB/s) - `www.ccs.neu.edu/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.5.2' saved [227/227]
+
+Removing www.ccs.neu.edu/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.5.2.
+
+--2013-09-19 20:30:57--  http://www.ccs.neu.edu/wp-content/themes/ccis/css/screen.css?ver=1.0.3
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 94835 (93K) [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/css/screen.css?ver=1.0.3'
+
+     0K .......... .......... .......... .......... .......... 53%  284M 0s
+    50K .......... .......... .......... .......... ..        100% 17.5M=0.003s
+
+2013-09-19 20:30:57 (35.4 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/css/screen.css?ver=1.0.3' saved [94835/94835]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/css/screen.css?ver=1.0.3.
+
+--2013-09-19 20:31:02--  http://www.ccs.neu.edu/wp-content/themes/ccis/css/print.css?ver=1.0.1
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4875 (4.8K) [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/css/print.css?ver=1.0.1'
+
+     0K ....                                                  100%  307M=0s
+
+2013-09-19 20:31:02 (307 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/css/print.css?ver=1.0.1' saved [4875/4875]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/css/print.css?ver=1.0.1.
+
+--2013-09-19 20:31:07--  http://www.ccs.neu.edu/wp-content/themes/ccis/plugin-features/gravity-forms/style.css?ver=3.5.2
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/css]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/plugin-features/gravity-forms/style.css?ver=3.5.2'
+
+     0K                                                        0.00 =0s
+
+2013-09-19 20:31:07 (0.00 B/s) - `www.ccs.neu.edu/wp-content/themes/ccis/plugin-features/gravity-forms/style.css?ver=3.5.2' saved [0/0]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/plugin-features/gravity-forms/style.css?ver=3.5.2.
+
+--2013-09-19 20:31:12--  http://www.ccs.neu.edu/wp-includes/js/jquery/jquery.js?ver=1.8.3
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 93658 (91K) [application/javascript]
+Saving to: `www.ccs.neu.edu/wp-includes/js/jquery/jquery.js?ver=1.8.3'
+
+     0K .......... .......... .......... .......... .......... 54%  243M 0s
+    50K .......... .......... .......... .......... .         100%  210M=0s
+
+2013-09-19 20:31:12 (227 MB/s) - `www.ccs.neu.edu/wp-includes/js/jquery/jquery.js?ver=1.8.3' saved [93658/93658]
+
+Removing www.ccs.neu.edu/wp-includes/js/jquery/jquery.js?ver=1.8.3.
+
+--2013-09-19 20:31:17--  http://www.ccs.neu.edu/wp-includes/js/comment-reply.min.js?ver=3.5.2
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 786 [application/javascript]
+Saving to: `www.ccs.neu.edu/wp-includes/js/comment-reply.min.js?ver=3.5.2'
+
+     0K                                                       100% 71.7M=0s
+
+2013-09-19 20:31:17 (71.7 MB/s) - `www.ccs.neu.edu/wp-includes/js/comment-reply.min.js?ver=3.5.2' saved [786/786]
+
+Removing www.ccs.neu.edu/wp-includes/js/comment-reply.min.js?ver=3.5.2.
+
+--2013-09-19 20:31:22--  http://www.ccs.neu.edu/wp-content/themes/ccis/javascripts/modernizr-2.6.2.min.js?ver=2.6.2
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12341 (12K) [application/javascript]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/javascripts/modernizr-2.6.2.min.js?ver=2.6.2'
+
+     0K .......... ..                                         100%  576M=0s
+
+2013-09-19 20:31:22 (576 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/javascripts/modernizr-2.6.2.min.js?ver=2.6.2' saved [12341/12341]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/javascripts/modernizr-2.6.2.min.js?ver=2.6.2.
+
+--2013-09-19 20:31:27--  http://www.ccs.neu.edu/xmlrpc.php?rsd
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 728 [text/xml]
+Saving to: `www.ccs.neu.edu/xmlrpc.php?rsd'
+
+     0K                                                       100%  105M=0s
+
+2013-09-19 20:31:28 (105 MB/s) - `www.ccs.neu.edu/xmlrpc.php?rsd' saved [728/728]
+
+Removing www.ccs.neu.edu/xmlrpc.php?rsd.
+
+--2013-09-19 20:31:33--  http://www.ccs.neu.edu/wp-includes/wlwmanifest.xml
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/xml]
+Saving to: `www.ccs.neu.edu/wp-includes/wlwmanifest.xml'
+
+     0K .                                                     100% 88.1M=0s
+
+2013-09-19 20:31:33 (88.1 MB/s) - `www.ccs.neu.edu/wp-includes/wlwmanifest.xml' saved [1052/1052]
+
+Removing www.ccs.neu.edu/wp-includes/wlwmanifest.xml.
+
+--2013-09-19 20:31:38--  http://www.ccs.neu.edu/wp-content/themes/ccis/images/ne-logo-header-2x.png
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12211 (12K) [image/png]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/images/ne-logo-header-2x.png'
+
+     0K .......... .                                          100%  603M=0s
+
+2013-09-19 20:31:38 (603 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/images/ne-logo-header-2x.png' saved [12211/12211]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/images/ne-logo-header-2x.png.
+
+--2013-09-19 20:31:43--  http://www.ccs.neu.edu/wp-content/themes/ccis/images/ne-sub-logo-header-2x.png
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11440 (11K) [image/png]
+Saving to: `www.ccs.neu.edu/wp-content/themes/ccis/images/ne-sub-logo-header-2x.png'
+
+     0K .......... .                                          100% 78.9M=0s
+
+2013-09-19 20:31:43 (78.9 MB/s) - `www.ccs.neu.edu/wp-content/themes/ccis/images/ne-sub-logo-header-2x.png' saved [11440/11440]
+
+Removing www.ccs.neu.edu/wp-content/themes/ccis/images/ne-sub-logo-header-2x.png.
+
+--2013-09-19 20:31:48--  http://www.ccs.neu.edu/contact-us/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61877 (60K) [text/html]
+Saving to: `www.ccs.neu.edu/contact-us/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 53.7M 0s
+    50K ..........                                            100% 18.9M=0.001s
+
+2013-09-19 20:31:48 (40.8 MB/s) - `www.ccs.neu.edu/contact-us/index.html' saved [61877/61877]
+
+Removing www.ccs.neu.edu/contact-us/index.html.
+
+--2013-09-19 20:31:53--  http://www.ccs.neu.edu/about/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63899 (62K) [text/html]
+Saving to: `www.ccs.neu.edu/about/index.html'
+
+     0K .......... .......... .......... .......... .......... 80% 31.9M 0s
+    50K .......... ..                                         100% 23654G=0.002s
+
+2013-09-19 20:31:53 (39.9 MB/s) - `www.ccs.neu.edu/about/index.html' saved [63899/63899]
+
+Removing www.ccs.neu.edu/about/index.html.
+
+--2013-09-19 20:31:58--  http://www.ccs.neu.edu/about/deans-message/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64807 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/about/deans-message/index.html'
+
+     0K .......... .......... .......... .......... .......... 79% 45.0M 0s
+    50K .......... ...                                        100% 15.8M=0.002s
+
+2013-09-19 20:31:58 (32.4 MB/s) - `www.ccs.neu.edu/about/deans-message/index.html' saved [64807/64807]
+
+Removing www.ccs.neu.edu/about/deans-message/index.html.
+
+--2013-09-19 20:32:03--  http://www.ccs.neu.edu/undergraduate/welcome/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 106135 (104K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/welcome/index.html'
+
+     0K .......... .......... .......... .......... .......... 48% 57.0M 0s
+    50K .......... .......... .......... .......... .......... 96% 16.0M 0s
+   100K ...                                                   100% 13.2M=0.004s
+
+2013-09-19 20:32:03 (24.2 MB/s) - `www.ccs.neu.edu/undergraduate/welcome/index.html' saved [106135/106135]
+
+Removing www.ccs.neu.edu/undergraduate/welcome/index.html.
+
+--2013-09-19 20:32:08--  http://www.ccs.neu.edu/undergraduate/advising/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63335 (62K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/advising/index.html'
+
+     0K .......... .......... .......... .......... .......... 80% 42.4M 0s
+    50K .......... .                                          100% 17.7M=0.002s
+
+2013-09-19 20:32:08 (33.5 MB/s) - `www.ccs.neu.edu/undergraduate/advising/index.html' saved [63335/63335]
+
+Removing www.ccs.neu.edu/undergraduate/advising/index.html.
+
+--2013-09-19 20:32:13--  http://www.ccs.neu.edu/undergraduate/degree-programs/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 67336 (66K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/degree-programs/index.html'
+
+     0K .......... .......... .......... .......... .......... 76% 43.4M 0s
+    50K .......... .....                                      100% 14.6M=0.002s
+
+2013-09-19 20:32:13 (29.4 MB/s) - `www.ccs.neu.edu/undergraduate/degree-programs/index.html' saved [67336/67336]
+
+Removing www.ccs.neu.edu/undergraduate/degree-programs/index.html.
+
+--2013-09-19 20:32:18--  http://www.ccs.neu.edu/undergraduate/minors/minor-in-computer-science/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63841 (62K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/minors/minor-in-computer-science/index.html'
+
+     0K .......... .......... .......... .......... .......... 80% 44.7M 0s
+    50K .......... ..                                         100% 16.5M=0.002s
+
+2013-09-19 20:32:18 (33.4 MB/s) - `www.ccs.neu.edu/undergraduate/minors/minor-in-computer-science/index.html' saved [63841/63841]
+
+Removing www.ccs.neu.edu/undergraduate/minors/minor-in-computer-science/index.html.
+
+--2013-09-19 20:32:23--  http://www.ccs.neu.edu/undergraduate/minors/minor-in-information-science/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62291 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/minors/minor-in-information-science/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 36.9M 0s
+    50K ..........                                            100% 23.0M=0.002s
+
+2013-09-19 20:32:23 (33.3 MB/s) - `www.ccs.neu.edu/undergraduate/minors/minor-in-information-science/index.html' saved [62291/62291]
+
+Removing www.ccs.neu.edu/undergraduate/minors/minor-in-information-science/index.html.
+
+--2013-09-19 20:32:28--  http://www.ccs.neu.edu/undergraduate/ccis-internal-transfer-policy/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66798 (65K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/ccis-internal-transfer-policy/index.html'
+
+     0K .......... .......... .......... .......... .......... 76% 48.5M 0s
+    50K .......... .....                                      100% 15.5M=0.002s
+
+2013-09-19 20:32:28 (32.4 MB/s) - `www.ccs.neu.edu/undergraduate/ccis-internal-transfer-policy/index.html' saved [66798/66798]
+
+Removing www.ccs.neu.edu/undergraduate/ccis-internal-transfer-policy/index.html.
+
+--2013-09-19 20:32:33--  http://www.ccs.neu.edu/undergraduate/tutoring/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62781 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/tutoring/index.html'
+
+     0K .......... .......... .......... .......... .......... 81% 38.5M 0s
+    50K .......... .                                          100% 16.5M=0.002s
+
+2013-09-19 20:32:33 (30.9 MB/s) - `www.ccs.neu.edu/undergraduate/tutoring/index.html' saved [62781/62781]
+
+Removing www.ccs.neu.edu/undergraduate/tutoring/index.html.
+
+--2013-09-19 20:32:38--  http://www.ccs.neu.edu/undergraduate/scholarships/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61735 (60K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/scholarships/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 43.5M 0s
+    50K ..........                                            100% 16.1M=0.002s
+
+2013-09-19 20:32:38 (33.7 MB/s) - `www.ccs.neu.edu/undergraduate/scholarships/index.html' saved [61735/61735]
+
+Removing www.ccs.neu.edu/undergraduate/scholarships/index.html.
+
+--2013-09-19 20:32:43--  http://www.ccs.neu.edu/undergraduate/major-student-awards/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61808 (60K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/major-student-awards/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 42.9M 0s
+    50K ..........                                            100% 16.5M=0.002s
+
+2013-09-19 20:32:43 (33.7 MB/s) - `www.ccs.neu.edu/undergraduate/major-student-awards/index.html' saved [61808/61808]
+
+Removing www.ccs.neu.edu/undergraduate/major-student-awards/index.html.
+
+--2013-09-19 20:32:48--  http://www.ccs.neu.edu/graduate/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64125 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/graduate/index.html'
+
+     0K .......... .......... .......... .......... .......... 79% 53.3M 0s
+    50K .......... ..                                         100% 16.8M=0.002s
+
+2013-09-19 20:32:48 (37.1 MB/s) - `www.ccs.neu.edu/graduate/index.html' saved [64125/64125]
+
+Removing www.ccs.neu.edu/graduate/index.html.
+
+--2013-09-19 20:32:53--  http://www.ccs.neu.edu/graduate/degree-programs/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 65914 (64K) [text/html]
+Saving to: `www.ccs.neu.edu/graduate/degree-programs/index.html'
+
+     0K .......... .......... .......... .......... .......... 77% 44.0M 0s
+    50K .......... ....                                       100% 16.6M=0.002s
+
+2013-09-19 20:32:53 (32.1 MB/s) - `www.ccs.neu.edu/graduate/degree-programs/index.html' saved [65914/65914]
+
+Removing www.ccs.neu.edu/graduate/degree-programs/index.html.
+
+--2013-09-19 20:32:58--  http://www.ccs.neu.edu/graduate/current-students/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 81819 (80K) [text/html]
+Saving to: `www.ccs.neu.edu/graduate/current-students/index.html'
+
+     0K .......... .......... .......... .......... .......... 62% 45.7M 0s
+    50K .......... .......... .........                       100% 16.2M=0.003s
+
+2013-09-19 20:32:58 (27.2 MB/s) - `www.ccs.neu.edu/graduate/current-students/index.html' saved [81819/81819]
+
+Removing www.ccs.neu.edu/graduate/current-students/index.html.
+
+--2013-09-19 20:33:03--  http://www.ccs.neu.edu/co-op/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62441 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/co-op/index.html'
+
+     0K .......... .......... .......... .......... .......... 81% 52.3M 0s
+    50K ..........                                            100% 15.6M=0.002s
+
+2013-09-19 20:33:03 (36.7 MB/s) - `www.ccs.neu.edu/co-op/index.html' saved [62441/62441]
+
+Removing www.ccs.neu.edu/co-op/index.html.
+
+--2013-09-19 20:33:08--  http://www.ccs.neu.edu/people/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60124 (59K) [text/html]
+Saving to: `www.ccs.neu.edu/people/index.html'
+
+     0K .......... .......... .......... .......... .......... 85% 44.1M 0s
+    50K ........                                              100% 17.4M=0.002s
+
+2013-09-19 20:33:08 (35.9 MB/s) - `www.ccs.neu.edu/people/index.html' saved [60124/60124]
+
+Removing www.ccs.neu.edu/people/index.html.
+
+--2013-09-19 20:33:13--  http://www.ccs.neu.edu/people/faculty/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 152678 (149K) [text/html]
+Saving to: `www.ccs.neu.edu/people/faculty/index.html'
+
+     0K .......... .......... .......... .......... .......... 33% 69.1M 0s
+    50K .......... .......... .......... .......... .......... 67% 31.9M 0s
+   100K .......... .......... .......... .......... ......... 100% 30.1M=0.004s
+
+2013-09-19 20:33:13 (38.0 MB/s) - `www.ccs.neu.edu/people/faculty/index.html' saved [152678/152678]
+
+Removing www.ccs.neu.edu/people/faculty/index.html.
+
+--2013-09-19 20:33:18--  http://www.ccs.neu.edu/people/administrative-staff/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63524 (62K) [text/html]
+Saving to: `www.ccs.neu.edu/people/administrative-staff/index.html'
+
+     0K .......... .......... .......... .......... .......... 80% 43.9M 0s
+    50K .......... ..                                         100% 16.0M=0.002s
+
+2013-09-19 20:33:18 (32.8 MB/s) - `www.ccs.neu.edu/people/administrative-staff/index.html' saved [63524/63524]
+
+Removing www.ccs.neu.edu/people/administrative-staff/index.html.
+
+--2013-09-19 20:33:23--  http://www.ccs.neu.edu/people/student-organizations/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60772 (59K) [text/html]
+Saving to: `www.ccs.neu.edu/people/student-organizations/index.html'
+
+     0K .......... .......... .......... .......... .......... 84% 46.2M 0s
+    50K .........                                             100% 14.7M=0.002s
+
+2013-09-19 20:33:23 (34.6 MB/s) - `www.ccs.neu.edu/people/student-organizations/index.html' saved [60772/60772]
+
+Removing www.ccs.neu.edu/people/student-organizations/index.html.
+
+--2013-09-19 20:33:28--  http://www.ccs.neu.edu/research/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60262 (59K) [text/html]
+Saving to: `www.ccs.neu.edu/research/index.html'
+
+     0K .......... .......... .......... .......... .......... 84% 41.0M 0s
+    50K ........                                              100% 15.6M=0.002s
+
+2013-09-19 20:33:28 (32.9 MB/s) - `www.ccs.neu.edu/research/index.html' saved [60262/60262]
+
+Removing www.ccs.neu.edu/research/index.html.
+
+--2013-09-19 20:33:33--  http://www.ccs.neu.edu/research/research-groups/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62651 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/research/research-groups/index.html'
+
+     0K .......... .......... .......... .......... .......... 81% 47.6M 0s
+    50K .......... .                                          100% 13.6M=0.002s
+
+2013-09-19 20:33:33 (32.6 MB/s) - `www.ccs.neu.edu/research/research-groups/index.html' saved [62651/62651]
+
+Removing www.ccs.neu.edu/research/research-groups/index.html.
+
+--2013-09-19 20:33:38--  http://www.ccs.neu.edu/research/centers-and-institutes/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60617 (59K) [text/html]
+Saving to: `www.ccs.neu.edu/research/centers-and-institutes/index.html'
+
+     0K .......... .......... .......... .......... .......... 84% 44.8M 0s
+    50K .........                                             100% 15.9M=0.002s
+
+2013-09-19 20:33:38 (34.9 MB/s) - `www.ccs.neu.edu/research/centers-and-institutes/index.html' saved [60617/60617]
+
+Removing www.ccs.neu.edu/research/centers-and-institutes/index.html.
+
+--2013-09-19 20:33:43--  http://www.ccs.neu.edu/prospective-students/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64949 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/prospective-students/index.html'
+
+     0K .......... .......... .......... .......... .......... 78% 43.9M 0s
+    50K .......... ...                                        100% 16.9M=0.002s
+
+2013-09-19 20:33:43 (32.8 MB/s) - `www.ccs.neu.edu/prospective-students/index.html' saved [64949/64949]
+
+Removing www.ccs.neu.edu/prospective-students/index.html.
+
+--2013-09-19 20:33:48--  http://www.ccs.neu.edu/current-students/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 67157 (66K) [text/html]
+Saving to: `www.ccs.neu.edu/current-students/index.html'
+
+     0K .......... .......... .......... .......... .......... 76% 55.8M 0s
+    50K .......... .....                                      100% 18.4M=0.002s
+
+2013-09-19 20:33:48 (37.6 MB/s) - `www.ccs.neu.edu/current-students/index.html' saved [67157/67157]
+
+Removing www.ccs.neu.edu/current-students/index.html.
+
+--2013-09-19 20:33:53--  http://www.ccs.neu.edu/alumni/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64223 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/alumni/index.html'
+
+     0K .......... .......... .......... .......... .......... 79% 43.0M 0s
+    50K .......... ..                                         100% 18.8M=0.002s
+
+2013-09-19 20:33:53 (34.1 MB/s) - `www.ccs.neu.edu/alumni/index.html' saved [64223/64223]
+
+Removing www.ccs.neu.edu/alumni/index.html.
+
+--2013-09-19 20:33:58--  http://www.ccs.neu.edu/employers/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62086 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/employers/index.html'
+
+     0K .......... .......... .......... .......... .......... 82% 39.6M 0s
+    50K ..........                                            100% 17.1M=0.002s
+
+2013-09-19 20:33:58 (32.2 MB/s) - `www.ccs.neu.edu/employers/index.html' saved [62086/62086]
+
+Removing www.ccs.neu.edu/employers/index.html.
+
+--2013-09-19 20:34:03--  http://www.ccs.neu.edu/undergraduate/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64384 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/undergraduate/index.html'
+
+     0K .......... .......... .......... .......... .......... 79% 48.0M 0s
+    50K .......... ..                                         100% 15.0M=0.002s
+
+2013-09-19 20:34:03 (33.1 MB/s) - `www.ccs.neu.edu/undergraduate/index.html' saved [64384/64384]
+
+Removing www.ccs.neu.edu/undergraduate/index.html.
+
+--2013-09-19 20:34:08--  http://www.ccs.neu.edu/wp-content/uploads/empower600-590x393-296x175.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15323 (15K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/empower600-590x393-296x175.jpg'
+
+     0K .......... ....                                       100% 30.5M=0s
+
+2013-09-19 20:34:08 (30.5 MB/s) - `www.ccs.neu.edu/wp-content/uploads/empower600-590x393-296x175.jpg' saved [15323/15323]
+
+Removing www.ccs.neu.edu/wp-content/uploads/empower600-590x393-296x175.jpg.
+
+--2013-09-19 20:34:13--  http://www.ccs.neu.edu/wp-content/uploads/robertson-296x175.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14747 (14K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/robertson-296x175.jpg'
+
+     0K .......... ....                                       100% 72.6M=0s
+
+2013-09-19 20:34:13 (72.6 MB/s) - `www.ccs.neu.edu/wp-content/uploads/robertson-296x175.jpg' saved [14747/14747]
+
+Removing www.ccs.neu.edu/wp-content/uploads/robertson-296x175.jpg.
+
+--2013-09-19 20:34:18--  http://www.ccs.neu.edu/wp-content/uploads/nate-bessa.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 75750 (74K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/nate-bessa.jpg'
+
+     0K .......... .......... .......... .......... .......... 67% 39.9M 0s
+    50K .......... .......... ...                             100% 16.8M=0.003s
+
+2013-09-19 20:34:18 (27.6 MB/s) - `www.ccs.neu.edu/wp-content/uploads/nate-bessa.jpg' saved [75750/75750]
+
+Removing www.ccs.neu.edu/wp-content/uploads/nate-bessa.jpg.
+
+--2013-09-19 20:34:23--  http://www.ccs.neu.edu/wp-content/uploads/eric-miles.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 57924 (57K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/eric-miles.jpg'
+
+     0K .......... .......... .......... .......... .......... 88% 47.2M 0s
+    50K ......                                                100% 17.2M=0.001s
+
+2013-09-19 20:34:23 (39.3 MB/s) - `www.ccs.neu.edu/wp-content/uploads/eric-miles.jpg' saved [57924/57924]
+
+Removing www.ccs.neu.edu/wp-content/uploads/eric-miles.jpg.
+
+--2013-09-19 20:34:28--  http://www.ccs.neu.edu/wp-content/uploads/FAndZyngaBrooks_highres.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63770 (62K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/FAndZyngaBrooks_highres.jpg'
+
+     0K .......... .......... .......... .......... .......... 80% 51.1M 0s
+    50K .......... ..                                         100% 16.4M=0.002s
+
+2013-09-19 20:34:28 (36.0 MB/s) - `www.ccs.neu.edu/wp-content/uploads/FAndZyngaBrooks_highres.jpg' saved [63770/63770]
+
+Removing www.ccs.neu.edu/wp-content/uploads/FAndZyngaBrooks_highres.jpg.
+
+--2013-09-19 20:34:33--  http://www.ccs.neu.edu/wp-content/uploads/computer-lab-and-robot.jpg
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 81691 (80K) [image/jpeg]
+Saving to: `www.ccs.neu.edu/wp-content/uploads/computer-lab-and-robot.jpg'
+
+     0K .......... .......... .......... .......... .......... 62% 43.8M 0s
+    50K .......... .......... .........                       100% 17.0M=0.003s
+
+2013-09-19 20:34:33 (27.6 MB/s) - `www.ccs.neu.edu/wp-content/uploads/computer-lab-and-robot.jpg' saved [81691/81691]
+
+Removing www.ccs.neu.edu/wp-content/uploads/computer-lab-and-robot.jpg.
+
+--2013-09-19 20:34:38--  http://www.ccs.neu.edu/news/events/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 71204 (70K) [text/html]
+Saving to: `www.ccs.neu.edu/news/events/index.html'
+
+     0K .......... .......... .......... .......... .......... 71% 44.4M 0s
+    50K .......... .........                                  100% 16.3M=0.002s
+
+2013-09-19 20:34:38 (29.9 MB/s) - `www.ccs.neu.edu/news/events/index.html' saved [71204/71204]
+
+Removing www.ccs.neu.edu/news/events/index.html.
+
+--2013-09-19 20:34:43--  http://www.ccs.neu.edu/news/archive/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 73693 (72K) [text/html]
+Saving to: `www.ccs.neu.edu/news/archive/index.html'
+
+     0K .......... .......... .......... .......... .......... 69% 45.3M 0s
+    50K .......... .......... .                               100% 16.9M=0.002s
+
+2013-09-19 20:34:43 (29.9 MB/s) - `www.ccs.neu.edu/news/archive/index.html' saved [73693/73693]
+
+Removing www.ccs.neu.edu/news/archive/index.html.
+
+--2013-09-19 20:34:48--  http://www.ccs.neu.edu/blog/2013/09/16/cutting-edge-tech-gives-a-synthetic-voice-to-the-voiceless/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62901 (61K) [text/html]
+Saving to: `www.ccs.neu.edu/blog/2013/09/16/cutting-edge-tech-gives-a-synthetic-voice-to-the-voiceless/index.html'
+
+     0K .......... .......... .......... .......... .......... 81% 39.5M 0s
+    50K .......... .                                          100% 16.8M=0.002s
+
+2013-09-19 20:34:48 (31.6 MB/s) - `www.ccs.neu.edu/blog/2013/09/16/cutting-edge-tech-gives-a-synthetic-voice-to-the-voiceless/index.html' saved [62901/62901]
+
+Removing www.ccs.neu.edu/blog/2013/09/16/cutting-edge-tech-gives-a-synthetic-voice-to-the-voiceless/index.html.
+
+--2013-09-19 20:34:53--  http://www.ccs.neu.edu/blog/2013/09/11/these-apps-were-made-for-walking/
+Reusing existing connection to www.ccs.neu.edu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64035 (63K) [text/html]
+Saving to: `www.ccs.neu.edu/blog/2013/09/11/these-apps-were-made-for-walking/index.html'
+
+     0K .......... .......... .......... .......... .......... 79% 42.7M 0s
+    50K .......... ..

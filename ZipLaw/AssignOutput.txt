@@ -1,0 +1,55 @@
+D:\Information Retrival\Assign-2
+D:\Information Retrival\Assign-2
+['alice_in_wonderland.txt', 'AssignOutput.txt', 'output.txt', 'parse.pl', 'ZipLaw.py']
+1   the   1644  rank = 1  Probability P of Occurence = 6.000  rP =  6
+2   and   872  rank = 2  Probability P of Occurence = 3.000  rP =  6
+3   to   729  rank = 3  Probability P of Occurence = 2.000  rP =  6
+4   a   632  rank = 4  Probability P of Occurence = 2.000  rP =  8
+5   she   541  rank = 5  Probability P of Occurence = 2.000  rP =  10
+6   it   530  rank = 6  Probability P of Occurence = 1.000  rP =  6
+7   of   514  rank = 7  Probability P of Occurence = 1.000  rP =  7
+8   said   462  rank = 8  Probability P of Occurence = 1.000  rP =  8
+9   i   410  rank = 9  Probability P of Occurence = 1.000  rP =  9
+10   alice   386  rank = 10  Probability P of Occurence = 1.000  rP =  10
+11   in   369  rank = 11  Probability P of Occurence = 1.000  rP =  11
+12   you   365  rank = 12  Probability P of Occurence = 1.000  rP =  12
+13   was   357  rank = 13  Probability P of Occurence = 1.000  rP =  13
+14   that   280  rank = 14  Probability P of Occurence = 1.000  rP =  14
+15   as   263  rank = 15  Probability P of Occurence = 0.000  rP =  0
+16   her   248  rank = 16  Probability P of Occurence = 0.000  rP =  0
+17   at   212  rank = 17  Probability P of Occurence = 0.000  rP =  0
+18   on   193  rank = 18  Probability P of Occurence = 0.000  rP =  0
+19   all   182  rank = 19  Probability P of Occurence = 0.000  rP =  0
+20   with   181  rank = 20  Probability P of Occurence = 0.000  rP =  0
+21   had   178  rank = 21  Probability P of Occurence = 0.000  rP =  0
+22   but   170  rank = 22  Probability P of Occurence = 0.000  rP =  0
+23   for   153  rank = 23  Probability P of Occurence = 0.000  rP =  0
+24   so   151  rank = 24  Probability P of Occurence = 0.000  rP =  0
+25   be   148  rank = 25  Probability P of Occurence = 0.000  rP =  0
+93   first   51  rank = 93  Probability P of Occurence = 0.000  rP =  0
+127   from   36  rank = 127  Probability P of Occurence = 0.000  rP =  0
+142   found   32  rank = 142  Probability P of Occurence = 0.000  rP =  0
+187   felt   23  rank = 187  Probability P of Occurence = 0.000  rP =  0
+198   find   21  rank = 198  Probability P of Occurence = 0.000  rP =  0
+208   feet   19  rank = 208  Probability P of Occurence = 0.000  rP =  0
+247   face   15  rank = 247  Probability P of Occurence = 0.000  rP =  0
+294   footman   13  rank = 294  Probability P of Occurence = 0.000  rP =  0
+295   far   13  rank = 295  Probability P of Occurence = 0.000  rP =  0
+317   finished   12  rank = 317  Probability P of Occurence = 0.000  rP =  0
+379   foot   10  rank = 379  Probability P of Occurence = 0.000  rP =  0
+380   fan   10  rank = 380  Probability P of Occurence = 0.000  rP =  0
+409   few   9  rank = 409  Probability P of Occurence = 0.000  rP =  0
+460   four   8  rank = 460  Probability P of Occurence = 0.000  rP =  0
+461   followed   8  rank = 461  Probability P of Occurence = 0.000  rP =  0
+462   five   8  rank = 462  Probability P of Occurence = 0.000  rP =  0
+463   fish   8  rank = 463  Probability P of Occurence = 0.000  rP =  0
+464   feel   8  rank = 464  Probability P of Occurence = 0.000  rP =  0
+465   fact   8  rank = 465  Probability P of Occurence = 0.000  rP =  0
+527   frightened   7  rank = 527  Probability P of Occurence = 0.000  rP =  0
+528   fetch   7  rank = 528  Probability P of Occurence = 0.000  rP =  0
+529   feeling   7  rank = 529  Probability P of Occurence = 0.000  rP =  0
+530   fancy   7  rank = 530  Probability P of Occurence = 0.000  rP =  0
+531   fall   7  rank = 531  Probability P of Occurence = 0.000  rP =  0
+587   full   6  rank = 587  Probability P of Occurence = 0.000  rP =  0
+Total Number of Words : 26693
+Total Number of Unique Words : 24061
